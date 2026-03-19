@@ -1,2 +1,3 @@
-# lite-time-tracker-2g22
+# Lite Time Tracker 2G22
+
 A repository to test GitHub automation for issue management.
